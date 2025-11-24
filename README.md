@@ -28,6 +28,8 @@ To use this Client. Simply move the script provided to usr/local/bash. Rename th
 
 This script can now be run by typing ovnf into your terminal. You will see the sudo password prompt. This is required to use this script due to the OpenVPN dependency requiring root privileges. 
 
+To be able to run this script. run chmod +x /usr/local/bash to make the script executable.
+
 To initialize this client. Please run the script before attempting to add configs. The script will automatically create the relevant directories for you to add your .ovpn configs.
 
 Instructions for use:
